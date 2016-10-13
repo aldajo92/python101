@@ -1,2 +1,2 @@
-# Python 101
-Learn step by step how to program with python.
+# BASIC
+In this section there are differents examples for get started with python.
